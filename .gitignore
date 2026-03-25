@@ -1,0 +1,15 @@
+# Node.js / React
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# Java / Spring Boot
+**/target/
+**/*.class
+**/*.jar
+
+# IDE / OS
+*.iml
+.idea/
+.vscode/
+.DS_Store
